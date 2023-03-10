@@ -1,5 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Blukezz/UTG-V4/main/Lib.lua"))()
-
 local Main_ = libary:CreateMain()
 
 Main_:CreateButton("Titanic Dominus Astra", "Corrupt Demonic Greatsword", "", "", "", "", function()
